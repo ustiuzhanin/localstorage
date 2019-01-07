@@ -12,3 +12,7 @@ h1, h2 {
     color: red;
     font-weight: bold;
 }
+
+#tweet {
+    max-width: 100%;
+}
